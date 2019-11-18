@@ -6,7 +6,6 @@ info:
 host: 10.118.242.121:10380
 schemes:
   - http
-  - https
 tags:
   - name: BEST-API
 paths:
